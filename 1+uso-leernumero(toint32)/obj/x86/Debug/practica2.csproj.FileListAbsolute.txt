@@ -1,0 +1,24 @@
+/Users/alumno/Projects/practica2/practica2/bin/Debug/practica2.exe
+/Users/alumno/Projects/practica2/practica2/bin/Debug/practica2.pdb
+/Users/alumno/Projects/practica2/practica2/obj/x86/Debug/practica2.csprojAssemblyReference.cache
+/Users/alumno/Projects/practica2/practica2/obj/x86/Debug/practica2.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/practica2/practica2/obj/x86/Debug/practica2.exe
+/Users/alumno/Projects/practica2/practica2/obj/x86/Debug/practica2.pdb
+X:\Documentos\visualstudio\trabajos\practica2\bin\Debug\practica2.exe
+X:\Documentos\visualstudio\trabajos\practica2\bin\Debug\practica2.pdb
+X:\Documentos\visualstudio\trabajos\practica2\obj\x86\Debug\practica2.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\trabajos\practica2\obj\x86\Debug\practica2.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\trabajos\practica2\obj\x86\Debug\practica2.exe
+X:\Documentos\visualstudio\trabajos\practica2\obj\x86\Debug\practica2.pdb
+X:\Documentos\visualstudio 1 a 4\trabajos\1+uso-leernumero(toint32)\bin\Debug\practica2.exe
+X:\Documentos\visualstudio 1 a 4\trabajos\1+uso-leernumero(toint32)\bin\Debug\practica2.pdb
+X:\Documentos\visualstudio 1 a 4\trabajos\1+uso-leernumero(toint32)\obj\x86\Debug\practica2.csprojAssemblyReference.cache
+X:\Documentos\visualstudio 1 a 4\trabajos\1+uso-leernumero(toint32)\obj\x86\Debug\practica2.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio 1 a 4\trabajos\1+uso-leernumero(toint32)\obj\x86\Debug\practica2.exe
+X:\Documentos\visualstudio 1 a 4\trabajos\1+uso-leernumero(toint32)\obj\x86\Debug\practica2.pdb
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1+uso-leernumero(toint32)\bin\Debug\practica2.exe
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1+uso-leernumero(toint32)\bin\Debug\practica2.pdb
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1+uso-leernumero(toint32)\obj\x86\Debug\practica2.csprojAssemblyReference.cache
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1+uso-leernumero(toint32)\obj\x86\Debug\practica2.csproj.CoreCompileInputs.cache
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1+uso-leernumero(toint32)\obj\x86\Debug\practica2.exe
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1+uso-leernumero(toint32)\obj\x86\Debug\practica2.pdb

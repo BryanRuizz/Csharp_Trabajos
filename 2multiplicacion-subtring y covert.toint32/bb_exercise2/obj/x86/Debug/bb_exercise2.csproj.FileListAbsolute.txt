@@ -1,0 +1,12 @@
+/Users/alumno/Projects/bb_exercise2/bb_exercise2/bin/Debug/bb_exercise2.exe
+/Users/alumno/Projects/bb_exercise2/bb_exercise2/bin/Debug/bb_exercise2.pdb
+/Users/alumno/Projects/bb_exercise2/bb_exercise2/obj/x86/Debug/bb_exercise2.csprojAssemblyReference.cache
+/Users/alumno/Projects/bb_exercise2/bb_exercise2/obj/x86/Debug/bb_exercise2.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/bb_exercise2/bb_exercise2/obj/x86/Debug/bb_exercise2.exe
+/Users/alumno/Projects/bb_exercise2/bb_exercise2/obj/x86/Debug/bb_exercise2.pdb
+X:\Documentos\visualstudio\trabajos\bb_exercise2\bb_exercise2\bin\Debug\bb_exercise2.exe
+X:\Documentos\visualstudio\trabajos\bb_exercise2\bb_exercise2\bin\Debug\bb_exercise2.pdb
+X:\Documentos\visualstudio\trabajos\bb_exercise2\bb_exercise2\obj\x86\Debug\bb_exercise2.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\trabajos\bb_exercise2\bb_exercise2\obj\x86\Debug\bb_exercise2.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\trabajos\bb_exercise2\bb_exercise2\obj\x86\Debug\bb_exercise2.exe
+X:\Documentos\visualstudio\trabajos\bb_exercise2\bb_exercise2\obj\x86\Debug\bb_exercise2.pdb

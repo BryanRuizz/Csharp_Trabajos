@@ -1,0 +1,37 @@
+/Users/alumno/Projects/practica4_reves/practica4_reves/obj/x86/Debug/practica4_reves.csprojAssemblyReference.cache
+/Users/alumno/Projects/practica4_reves/practica4_reves/obj/x86/Debug/practica4_reves.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/practica4_reves/practica4_reves/bin/Debug/practica4_reves.exe
+/Users/alumno/Projects/practica4_reves/practica4_reves/bin/Debug/practica4_reves.pdb
+/Users/alumno/Projects/practica4_reves/practica4_reves/obj/x86/Debug/practica4_reves.exe
+/Users/alumno/Projects/practica4_reves/practica4_reves/obj/x86/Debug/practica4_reves.pdb
+X:\Documentos\visualstudio\practica4_reves\practica4_reves\bin\Debug\practica4_reves.exe
+X:\Documentos\visualstudio\practica4_reves\practica4_reves\bin\Debug\practica4_reves.pdb
+X:\Documentos\visualstudio\practica4_reves\practica4_reves\obj\x86\Debug\practica4_reves.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\practica4_reves\practica4_reves\obj\x86\Debug\practica4_reves.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\practica4_reves\practica4_reves\obj\x86\Debug\practica4_reves.exe
+X:\Documentos\visualstudio\practica4_reves\practica4_reves\obj\x86\Debug\practica4_reves.pdb
+X:\Documentos\visualstudio\trabajos\practica4_reves\practica4_reves\bin\Debug\practica4_reves.exe
+X:\Documentos\visualstudio\trabajos\practica4_reves\practica4_reves\bin\Debug\practica4_reves.pdb
+X:\Documentos\visualstudio\trabajos\practica4_reves\practica4_reves\obj\x86\Debug\practica4_reves.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\trabajos\practica4_reves\practica4_reves\obj\x86\Debug\practica4_reves.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\trabajos\practica4_reves\practica4_reves\obj\x86\Debug\practica4_reves.exe
+X:\Documentos\visualstudio\trabajos\practica4_reves\practica4_reves\obj\x86\Debug\practica4_reves.pdb
+X:\Documentos\visualstudio\trabajos\CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\bin\Debug\practica4_reves.exe
+X:\Documentos\visualstudio\trabajos\CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\bin\Debug\practica4_reves.pdb
+X:\Documentos\visualstudio\trabajos\CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\trabajos\CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\trabajos\CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.exe
+X:\Documentos\visualstudio\trabajos\CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.pdb
+X:\Documentos\visualstudio\trabajos\7CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\bin\Debug\practica4_reves.exe
+X:\Documentos\visualstudio\trabajos\7CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\bin\Debug\practica4_reves.pdb
+X:\Documentos\visualstudio\trabajos\7CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\trabajos\7CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\trabajos\7CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.exe
+X:\Documentos\visualstudio\trabajos\7CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.pdb
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\8CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\bin\Debug\practica4_reves.exe.config
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\8CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\bin\Debug\practica4_reves.exe
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\8CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\bin\Debug\practica4_reves.pdb
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\8CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.csprojAssemblyReference.cache
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\8CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.csproj.CoreCompileInputs.cache
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\8CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.exe
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\8CORTAR.NOMBRES-ULTIMAS 2 LETRASID\practica4_reves\obj\x86\Debug\practica4_reves.pdb

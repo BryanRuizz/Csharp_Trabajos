@@ -1,0 +1,24 @@
+/Users/alumno/Projects/exercise3_bebecita/exercise3_bebecita/bin/Debug/exercise3_bebecita.exe
+/Users/alumno/Projects/exercise3_bebecita/exercise3_bebecita/bin/Debug/exercise3_bebecita.pdb
+/Users/alumno/Projects/exercise3_bebecita/exercise3_bebecita/obj/x86/Debug/exercise3_bebecita.csprojAssemblyReference.cache
+/Users/alumno/Projects/exercise3_bebecita/exercise3_bebecita/obj/x86/Debug/exercise3_bebecita.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/exercise3_bebecita/exercise3_bebecita/obj/x86/Debug/exercise3_bebecita.exe
+/Users/alumno/Projects/exercise3_bebecita/exercise3_bebecita/obj/x86/Debug/exercise3_bebecita.pdb
+X:\Documentos\visualstudio\trabajos\exercise3_bebecita\exercise3_bebecita\bin\Debug\exercise3_bebecita.exe
+X:\Documentos\visualstudio\trabajos\exercise3_bebecita\exercise3_bebecita\bin\Debug\exercise3_bebecita.pdb
+X:\Documentos\visualstudio\trabajos\exercise3_bebecita\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\trabajos\exercise3_bebecita\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\trabajos\exercise3_bebecita\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.exe
+X:\Documentos\visualstudio\trabajos\exercise3_bebecita\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.pdb
+X:\Documentos\visualstudio\trabajos\USO DE IF CON OR\exercise3_bebecita\bin\Debug\exercise3_bebecita.exe
+X:\Documentos\visualstudio\trabajos\USO DE IF CON OR\exercise3_bebecita\bin\Debug\exercise3_bebecita.pdb
+X:\Documentos\visualstudio\trabajos\USO DE IF CON OR\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\trabajos\USO DE IF CON OR\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\trabajos\USO DE IF CON OR\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.exe
+X:\Documentos\visualstudio\trabajos\USO DE IF CON OR\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.pdb
+X:\Documentos\visualstudio 1 a 4\trabajos\3USO DE IF CON OR\exercise3_bebecita\bin\Debug\exercise3_bebecita.exe
+X:\Documentos\visualstudio 1 a 4\trabajos\3USO DE IF CON OR\exercise3_bebecita\bin\Debug\exercise3_bebecita.pdb
+X:\Documentos\visualstudio 1 a 4\trabajos\3USO DE IF CON OR\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.csprojAssemblyReference.cache
+X:\Documentos\visualstudio 1 a 4\trabajos\3USO DE IF CON OR\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio 1 a 4\trabajos\3USO DE IF CON OR\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.exe
+X:\Documentos\visualstudio 1 a 4\trabajos\3USO DE IF CON OR\exercise3_bebecita\obj\x86\Debug\exercise3_bebecita.pdb

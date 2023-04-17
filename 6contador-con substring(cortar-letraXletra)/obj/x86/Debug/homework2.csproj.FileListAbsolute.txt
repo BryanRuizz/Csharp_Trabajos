@@ -1,0 +1,12 @@
+/Users/alumno/Projects/homework2/homework2/bin/Debug/homework2.exe
+/Users/alumno/Projects/homework2/homework2/bin/Debug/homework2.pdb
+/Users/alumno/Projects/homework2/homework2/obj/x86/Debug/homework2.csprojAssemblyReference.cache
+/Users/alumno/Projects/homework2/homework2/obj/x86/Debug/homework2.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/homework2/homework2/obj/x86/Debug/homework2.exe
+/Users/alumno/Projects/homework2/homework2/obj/x86/Debug/homework2.pdb
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\6contador-con substring(cortar-letraXletra)\bin\Debug\homework2.exe
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\6contador-con substring(cortar-letraXletra)\bin\Debug\homework2.pdb
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\6contador-con substring(cortar-letraXletra)\obj\x86\Debug\homework2.csprojAssemblyReference.cache
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\6contador-con substring(cortar-letraXletra)\obj\x86\Debug\homework2.csproj.CoreCompileInputs.cache
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\6contador-con substring(cortar-letraXletra)\obj\x86\Debug\homework2.exe
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\6contador-con substring(cortar-letraXletra)\obj\x86\Debug\homework2.pdb

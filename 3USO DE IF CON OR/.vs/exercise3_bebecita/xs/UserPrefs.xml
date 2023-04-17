@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E4DF5626-83A3-477F-A379-0AA2B620D446}|Default">
+  <MonoDevelop.Ide.ItemProperties.exercise3__bebecita PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exercise3_bebecita/Program.cs">
+    <Files>
+      <File FileName="exercise3_bebecita/Program.cs" Line="121" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

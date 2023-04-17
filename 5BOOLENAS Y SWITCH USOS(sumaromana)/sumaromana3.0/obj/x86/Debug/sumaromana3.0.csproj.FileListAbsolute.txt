@@ -1,0 +1,18 @@
+/Users/alumno/Projects/sumaromana3.0/sumaromana3.0/bin/Debug/sumaromana3.0.exe
+/Users/alumno/Projects/sumaromana3.0/sumaromana3.0/bin/Debug/sumaromana3.0.pdb
+/Users/alumno/Projects/sumaromana3.0/sumaromana3.0/obj/x86/Debug/sumaromana3.0.csprojAssemblyReference.cache
+/Users/alumno/Projects/sumaromana3.0/sumaromana3.0/obj/x86/Debug/sumaromana3.0.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/sumaromana3.0/sumaromana3.0/obj/x86/Debug/sumaromana3.0.exe
+/Users/alumno/Projects/sumaromana3.0/sumaromana3.0/obj/x86/Debug/sumaromana3.0.pdb
+X:\Documentos\visualstudio\trabajos\sumaromana3.0\sumaromana3.0\bin\Debug\sumaromana3.0.exe
+X:\Documentos\visualstudio\trabajos\sumaromana3.0\sumaromana3.0\bin\Debug\sumaromana3.0.pdb
+X:\Documentos\visualstudio\trabajos\sumaromana3.0\sumaromana3.0\obj\x86\Debug\sumaromana3.0.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\trabajos\sumaromana3.0\sumaromana3.0\obj\x86\Debug\sumaromana3.0.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\trabajos\sumaromana3.0\sumaromana3.0\obj\x86\Debug\sumaromana3.0.exe
+X:\Documentos\visualstudio\trabajos\sumaromana3.0\sumaromana3.0\obj\x86\Debug\sumaromana3.0.pdb
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\5BOOLENAS Y SWITCH USOS(sumaromana)\sumaromana3.0\bin\Debug\sumaromana3.0.exe
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\5BOOLENAS Y SWITCH USOS(sumaromana)\sumaromana3.0\bin\Debug\sumaromana3.0.pdb
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\5BOOLENAS Y SWITCH USOS(sumaromana)\sumaromana3.0\obj\x86\Debug\sumaromana3.0.csprojAssemblyReference.cache
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\5BOOLENAS Y SWITCH USOS(sumaromana)\sumaromana3.0\obj\x86\Debug\sumaromana3.0.csproj.CoreCompileInputs.cache
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\5BOOLENAS Y SWITCH USOS(sumaromana)\sumaromana3.0\obj\x86\Debug\sumaromana3.0.exe
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\5BOOLENAS Y SWITCH USOS(sumaromana)\sumaromana3.0\obj\x86\Debug\sumaromana3.0.pdb

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{B0CA4612-14F4-4644-AD7F-C131CF10C8DB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="practica4_reves/Program.cs">
+    <Files>
+      <File FileName="practica4_reves/Program.cs" Line="9" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="practica4_reves" expanded="True">
+            <Node name="practica4_reves" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.practica4__reves PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

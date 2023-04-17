@@ -1,0 +1,29 @@
+/Users/alumno/Projects/execise1/execise1/obj/x86/Debug/execise1.csprojAssemblyReference.cache
+/Users/alumno/Projects/execise1/execise1/obj/x86/Debug/execise1.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/execise1/execise1/bin/Debug/execise1.exe
+/Users/alumno/Projects/execise1/execise1/bin/Debug/execise1.pdb
+/Users/alumno/Projects/execise1/execise1/obj/x86/Debug/execise1.exe
+/Users/alumno/Projects/execise1/execise1/obj/x86/Debug/execise1.pdb
+X:\Documentos\visualstudio\trabajos\execise1\execise1\obj\x86\Debug\execise1.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\trabajos\execise1\execise1\obj\x86\Debug\execise1.exe
+X:\Documentos\visualstudio\trabajos\execise1\execise1\obj\x86\Debug\execise1.pdb
+X:\Documentos\visualstudio\trabajos\execise1\execise1\bin\Debug\execise1.exe
+X:\Documentos\visualstudio\trabajos\execise1\execise1\bin\Debug\execise1.pdb
+X:\Documentos\visualstudio\trabajos\first-declara&&asigna-var\execise1\bin\Debug\execise1.exe
+X:\Documentos\visualstudio\trabajos\first-declara&&asigna-var\execise1\bin\Debug\execise1.pdb
+X:\Documentos\visualstudio\trabajos\first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\trabajos\first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\trabajos\first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.exe
+X:\Documentos\visualstudio\trabajos\first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.pdb
+X:\Documentos\visualstudio 1 a 4\trabajos\1.2 first-declara&&asigna-var\execise1\bin\Debug\execise1.exe
+X:\Documentos\visualstudio 1 a 4\trabajos\1.2 first-declara&&asigna-var\execise1\bin\Debug\execise1.pdb
+X:\Documentos\visualstudio 1 a 4\trabajos\1.2 first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.csprojAssemblyReference.cache
+X:\Documentos\visualstudio 1 a 4\trabajos\1.2 first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio 1 a 4\trabajos\1.2 first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.exe
+X:\Documentos\visualstudio 1 a 4\trabajos\1.2 first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.pdb
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1.2 first-declara&&asigna-var\execise1\bin\Debug\execise1.exe
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1.2 first-declara&&asigna-var\execise1\bin\Debug\execise1.pdb
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1.2 first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.csprojAssemblyReference.cache
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1.2 first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.csproj.CoreCompileInputs.cache
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1.2 first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.exe
+X:\Documentos\1 visualstudio 1 a 4\trabajos 1\1.2 first-declara&&asigna-var\execise1\obj\x86\Debug\execise1.pdb

@@ -1,0 +1,18 @@
+/Users/alumno/Projects/practica1/practica1/bin/Debug/practica1.exe
+/Users/alumno/Projects/practica1/practica1/bin/Debug/practica1.pdb
+/Users/alumno/Projects/practica1/practica1/obj/x86/Debug/practica1.csprojAssemblyReference.cache
+/Users/alumno/Projects/practica1/practica1/obj/x86/Debug/practica1.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/practica1/practica1/obj/x86/Debug/practica1.exe
+/Users/alumno/Projects/practica1/practica1/obj/x86/Debug/practica1.pdb
+X:\Documentos\visualstudio\trabajos\practica1\practica1\bin\Debug\practica1.exe
+X:\Documentos\visualstudio\trabajos\practica1\practica1\bin\Debug\practica1.pdb
+X:\Documentos\visualstudio\trabajos\practica1\practica1\obj\x86\Debug\practica1.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\trabajos\practica1\practica1\obj\x86\Debug\practica1.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\trabajos\practica1\practica1\obj\x86\Debug\practica1.exe
+X:\Documentos\visualstudio\trabajos\practica1\practica1\obj\x86\Debug\practica1.pdb
+X:\Documentos\visualstudio 1 a 4\trabajos\4rom-uso del if y else\practica1\bin\Debug\practica1.exe
+X:\Documentos\visualstudio 1 a 4\trabajos\4rom-uso del if y else\practica1\bin\Debug\practica1.pdb
+X:\Documentos\visualstudio 1 a 4\trabajos\4rom-uso del if y else\practica1\obj\x86\Debug\practica1.csprojAssemblyReference.cache
+X:\Documentos\visualstudio 1 a 4\trabajos\4rom-uso del if y else\practica1\obj\x86\Debug\practica1.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio 1 a 4\trabajos\4rom-uso del if y else\practica1\obj\x86\Debug\practica1.exe
+X:\Documentos\visualstudio 1 a 4\trabajos\4rom-uso del if y else\practica1\obj\x86\Debug\practica1.pdb

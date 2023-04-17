@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{69F7B9A6-FB6A-42A8-9DC3-D121A828D7B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="sumaromana3.0/Program.cs">
+    <Files>
+      <File FileName="sumaromana3.0/Program.cs" Line="251" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.sumaromana3.0 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
