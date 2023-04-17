@@ -1,0 +1,6 @@
+/Users/alumno/Projects/excerice1.1/excerice1.1/bin/Debug/excerice1.1.exe
+/Users/alumno/Projects/excerice1.1/excerice1.1/bin/Debug/excerice1.1.pdb
+/Users/alumno/Projects/excerice1.1/excerice1.1/obj/x86/Debug/excerice1.1.csprojAssemblyReference.cache
+/Users/alumno/Projects/excerice1.1/excerice1.1/obj/x86/Debug/excerice1.1.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/excerice1.1/excerice1.1/obj/x86/Debug/excerice1.1.exe
+/Users/alumno/Projects/excerice1.1/excerice1.1/obj/x86/Debug/excerice1.1.pdb

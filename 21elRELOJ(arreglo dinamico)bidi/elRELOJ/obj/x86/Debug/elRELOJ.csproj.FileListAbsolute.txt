@@ -1,0 +1,12 @@
+/Users/alumno/Projects/elRELOJ/elRELOJ/bin/Debug/elRELOJ.exe
+/Users/alumno/Projects/elRELOJ/elRELOJ/bin/Debug/elRELOJ.pdb
+/Users/alumno/Projects/elRELOJ/elRELOJ/obj/x86/Debug/elRELOJ.csprojAssemblyReference.cache
+/Users/alumno/Projects/elRELOJ/elRELOJ/obj/x86/Debug/elRELOJ.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/elRELOJ/elRELOJ/obj/x86/Debug/elRELOJ.exe
+/Users/alumno/Projects/elRELOJ/elRELOJ/obj/x86/Debug/elRELOJ.pdb
+X:\Documentos\visualstudio\MATONES\21elRELOJ(arreglo dinamico)bidi\elRELOJ\bin\Debug\elRELOJ.exe
+X:\Documentos\visualstudio\MATONES\21elRELOJ(arreglo dinamico)bidi\elRELOJ\bin\Debug\elRELOJ.pdb
+X:\Documentos\visualstudio\MATONES\21elRELOJ(arreglo dinamico)bidi\elRELOJ\obj\x86\Debug\elRELOJ.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\MATONES\21elRELOJ(arreglo dinamico)bidi\elRELOJ\obj\x86\Debug\elRELOJ.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\MATONES\21elRELOJ(arreglo dinamico)bidi\elRELOJ\obj\x86\Debug\elRELOJ.exe
+X:\Documentos\visualstudio\MATONES\21elRELOJ(arreglo dinamico)bidi\elRELOJ\obj\x86\Debug\elRELOJ.pdb

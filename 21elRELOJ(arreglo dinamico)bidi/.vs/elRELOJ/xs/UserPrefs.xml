@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{0C636C72-E74C-40D5-8800-260735FC106B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="elRELOJ/Program.cs">
+    <Files>
+      <File FileName="elRELOJ/Program.cs" Line="41" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.elRELOJ PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

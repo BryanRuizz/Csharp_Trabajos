@@ -1,0 +1,19 @@
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\excercice 2\excercice 2\bin\Debug\excercice 2.exe.config
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\excercice 2\excercice 2\bin\Debug\excercice 2.exe
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\excercice 2\excercice 2\bin\Debug\excercice 2.pdb
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\excercice 2\excercice 2\obj\Debug\excercice 2.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\excercice 2\excercice 2\obj\Debug\excercice_2.Form1.resources
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\excercice 2\excercice 2\obj\Debug\excercice_2.Properties.Resources.resources
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\excercice 2\excercice 2\obj\Debug\excercice 2.csproj.GenerateResource.Cache
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\excercice 2\excercice 2\obj\Debug\excercice 2.exe
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\excercice 2\excercice 2\obj\Debug\excercice 2.pdb
+X:\Documentos\visualstudio\windos form\23excercice 2(windw_form)\excercice 2\bin\Debug\excercice 2.exe.config
+X:\Documentos\visualstudio\windos form\23excercice 2(windw_form)\excercice 2\bin\Debug\excercice 2.exe
+X:\Documentos\visualstudio\windos form\23excercice 2(windw_form)\excercice 2\bin\Debug\excercice 2.pdb
+X:\Documentos\visualstudio\windos form\23excercice 2(windw_form)\excercice 2\obj\Debug\excercice 2.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\windos form\23excercice 2(windw_form)\excercice 2\obj\Debug\excercice_2.Form1.resources
+X:\Documentos\visualstudio\windos form\23excercice 2(windw_form)\excercice 2\obj\Debug\excercice_2.Properties.Resources.resources
+X:\Documentos\visualstudio\windos form\23excercice 2(windw_form)\excercice 2\obj\Debug\excercice 2.csproj.GenerateResource.cache
+X:\Documentos\visualstudio\windos form\23excercice 2(windw_form)\excercice 2\obj\Debug\excercice 2.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\windos form\23excercice 2(windw_form)\excercice 2\obj\Debug\excercice 2.exe
+X:\Documentos\visualstudio\windos form\23excercice 2(windw_form)\excercice 2\obj\Debug\excercice 2.pdb

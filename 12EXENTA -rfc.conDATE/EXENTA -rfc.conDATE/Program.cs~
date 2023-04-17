@@ -1,0 +1,61 @@
+﻿using System;
+
+namespace exentacion
+{
+    class MainClass
+    {
+        public static void Main(string[] args)
+        {
+      String NOMBRE = "",FECHA="",RFC="",FEC,LET="",PALABRANEW="",RFC1="";
+       int CONTA = 0,CONTA2=0, LONGLET = 0, LONGLET2 = 0, FEC2 = 0;
+
+            Console.WriteLine("*****BIENVENIDO AL SISTEMA DE RFC*****");
+            Console.WriteLine(" ");
+            Console.WriteLine("PARA OBTENER SU RFC NECESITA INGRESAR SU NOMBRE Y SU FECHA DE NACIMIENTO");
+            Console.WriteLine(" ");
+            Console.WriteLine("POR FAVOR INGRESE SU NOMBRE COMPLETO");
+            NOMBRE = Console.ReadLine();
+
+            RFC1 = NOMBRE.Substring(0, 2);
+            LONGLET = NOMBRE.Length;
+            while (CONTA < LONGLET)
+            {
+                LET = NOMBRE.Substring(CONTA, 1);
+                if (LET == " ")
+                {
+                    RFC1 = RFC1 + NOMBRE.Substring(CONTA + 1, 1);
+                }
+                CONTA++;
+            }
+            RFC1 = RFC1.Substring(0, 2) + RFC1.Substring(3, 2);
+
+            Console.WriteLine("INGRESE SU FECHA DE NACIMIENTO CON EL FORMATO (DD/MM/AA)");
+            FECHA = Console.ReadLine();
+
+            RFC1 = RFC1 +FECHA.Substring(0, 2) + FECHA.Substring(3, 2) + FECHA.Substring(8, 2);
+
+            while (CONTA2 < LONGLET)
+            {
+                LET = NOMBRE.Substring(CONTA2, 1);
+                {
+                    PALABRANEW = PALABRANEW + LET;
+                    if (LET == " ")
+                    {
+                        LONGLET2 = PALABRANEW.Length - 1;
+                        PALABRANEW = PALABRANEW.Substring(0, LONGLET2);
+                    }
+                }
+                CONTA2++;
+            }
+            FEC = FECHA.Substring(3, 2);
+            FEC2 = Convert.ToInt32(FEC);
+            RFC1 =RFC1+ PALABRANEW.Substring(FEC2, 1);
+            RFC1= RFC1+ FECHA.Substring(6, 2);
+            Console.WriteLine("SEGUN LOS DATOS INGRESADOS SU RFC ES: "+RFC1);
+       
+
+
+
+        }
+    }
+}

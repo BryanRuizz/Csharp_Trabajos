@@ -1,0 +1,19 @@
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\execrice1\execrice1\bin\Debug\execrice1.exe.config
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\execrice1\execrice1\bin\Debug\execrice1.exe
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\execrice1\execrice1\bin\Debug\execrice1.pdb
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\execrice1\execrice1\obj\Debug\execrice1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\execrice1\execrice1\obj\Debug\execrice1.Form1.resources
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\execrice1\execrice1\obj\Debug\execrice1.Properties.Resources.resources
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\execrice1\execrice1\obj\Debug\execrice1.csproj.GenerateResource.Cache
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\execrice1\execrice1\obj\Debug\execrice1.exe
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\execrice1\execrice1\obj\Debug\execrice1.pdb
+X:\Documentos\visualstudio\windos form\22execrice1(windw_form)\execrice1\bin\Debug\execrice1.exe.config
+X:\Documentos\visualstudio\windos form\22execrice1(windw_form)\execrice1\bin\Debug\execrice1.exe
+X:\Documentos\visualstudio\windos form\22execrice1(windw_form)\execrice1\bin\Debug\execrice1.pdb
+X:\Documentos\visualstudio\windos form\22execrice1(windw_form)\execrice1\obj\Debug\execrice1.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\windos form\22execrice1(windw_form)\execrice1\obj\Debug\execrice1.Form1.resources
+X:\Documentos\visualstudio\windos form\22execrice1(windw_form)\execrice1\obj\Debug\execrice1.Properties.Resources.resources
+X:\Documentos\visualstudio\windos form\22execrice1(windw_form)\execrice1\obj\Debug\execrice1.csproj.GenerateResource.cache
+X:\Documentos\visualstudio\windos form\22execrice1(windw_form)\execrice1\obj\Debug\execrice1.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\windos form\22execrice1(windw_form)\execrice1\obj\Debug\execrice1.exe
+X:\Documentos\visualstudio\windos form\22execrice1(windw_form)\execrice1\obj\Debug\execrice1.pdb

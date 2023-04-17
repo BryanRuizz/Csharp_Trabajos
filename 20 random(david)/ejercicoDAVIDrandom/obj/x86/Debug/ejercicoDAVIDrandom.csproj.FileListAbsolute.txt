@@ -1,0 +1,6 @@
+/Users/alumno/Projects/ejercicoDAVIDrandom/ejercicoDAVIDrandom/bin/Debug/ejercicoDAVIDrandom.exe
+/Users/alumno/Projects/ejercicoDAVIDrandom/ejercicoDAVIDrandom/bin/Debug/ejercicoDAVIDrandom.pdb
+/Users/alumno/Projects/ejercicoDAVIDrandom/ejercicoDAVIDrandom/obj/x86/Debug/ejercicoDAVIDrandom.csprojAssemblyReference.cache
+/Users/alumno/Projects/ejercicoDAVIDrandom/ejercicoDAVIDrandom/obj/x86/Debug/ejercicoDAVIDrandom.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/ejercicoDAVIDrandom/ejercicoDAVIDrandom/obj/x86/Debug/ejercicoDAVIDrandom.exe
+/Users/alumno/Projects/ejercicoDAVIDrandom/ejercicoDAVIDrandom/obj/x86/Debug/ejercicoDAVIDrandom.pdb

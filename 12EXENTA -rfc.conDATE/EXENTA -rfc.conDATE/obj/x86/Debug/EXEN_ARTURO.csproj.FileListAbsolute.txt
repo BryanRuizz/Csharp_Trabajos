@@ -1,0 +1,18 @@
+/Users/alumno/Projects/EXEN_ARTURO/EXEN_ARTURO/obj/x86/Debug/EXEN_ARTURO.csprojAssemblyReference.cache
+/Users/alumno/Projects/EXEN_ARTURO/EXEN_ARTURO/obj/x86/Debug/EXEN_ARTURO.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/EXEN_ARTURO/EXEN_ARTURO/bin/Debug/EXEN_ARTURO.exe
+/Users/alumno/Projects/EXEN_ARTURO/EXEN_ARTURO/bin/Debug/EXEN_ARTURO.pdb
+/Users/alumno/Projects/EXEN_ARTURO/EXEN_ARTURO/obj/x86/Debug/EXEN_ARTURO.exe
+/Users/alumno/Projects/EXEN_ARTURO/EXEN_ARTURO/obj/x86/Debug/EXEN_ARTURO.pdb
+X:\Documentos\visualstudio\MATONES\EXEN_ARTURO 2\EXEN_ARTURO\bin\Debug\EXEN_ARTURO.exe
+X:\Documentos\visualstudio\MATONES\EXEN_ARTURO 2\EXEN_ARTURO\bin\Debug\EXEN_ARTURO.pdb
+X:\Documentos\visualstudio\MATONES\EXEN_ARTURO 2\EXEN_ARTURO\obj\x86\Debug\EXEN_ARTURO.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\MATONES\EXEN_ARTURO 2\EXEN_ARTURO\obj\x86\Debug\EXEN_ARTURO.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\MATONES\EXEN_ARTURO 2\EXEN_ARTURO\obj\x86\Debug\EXEN_ARTURO.exe
+X:\Documentos\visualstudio\MATONES\EXEN_ARTURO 2\EXEN_ARTURO\obj\x86\Debug\EXEN_ARTURO.pdb
+X:\Documentos\visualstudio\MATONES\EXEN_bryan1\EXEN_ARTURO\bin\Debug\EXEN_ARTURO.exe
+X:\Documentos\visualstudio\MATONES\EXEN_bryan1\EXEN_ARTURO\bin\Debug\EXEN_ARTURO.pdb
+X:\Documentos\visualstudio\MATONES\EXEN_bryan1\EXEN_ARTURO\obj\x86\Debug\EXEN_ARTURO.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\MATONES\EXEN_bryan1\EXEN_ARTURO\obj\x86\Debug\EXEN_ARTURO.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\MATONES\EXEN_bryan1\EXEN_ARTURO\obj\x86\Debug\EXEN_ARTURO.exe
+X:\Documentos\visualstudio\MATONES\EXEN_bryan1\EXEN_ARTURO\obj\x86\Debug\EXEN_ARTURO.pdb

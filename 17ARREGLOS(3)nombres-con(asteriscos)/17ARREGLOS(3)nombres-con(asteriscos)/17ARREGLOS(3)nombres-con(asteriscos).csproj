@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>_17ARREGLOS_3_nombres_con_asteriscos_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

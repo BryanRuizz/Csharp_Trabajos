@@ -1,0 +1,19 @@
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\alumno\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+X:\Documentos\visualstudio\windos form\24calcularUNIDADES y reset(windw_form)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+X:\Documentos\visualstudio\windos form\24calcularUNIDADES y reset(windw_form)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+X:\Documentos\visualstudio\windos form\24calcularUNIDADES y reset(windw_form)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+X:\Documentos\visualstudio\windos form\24calcularUNIDADES y reset(windw_form)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\windos form\24calcularUNIDADES y reset(windw_form)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+X:\Documentos\visualstudio\windos form\24calcularUNIDADES y reset(windw_form)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+X:\Documentos\visualstudio\windos form\24calcularUNIDADES y reset(windw_form)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+X:\Documentos\visualstudio\windos form\24calcularUNIDADES y reset(windw_form)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\windos form\24calcularUNIDADES y reset(windw_form)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+X:\Documentos\visualstudio\windos form\24calcularUNIDADES y reset(windw_form)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

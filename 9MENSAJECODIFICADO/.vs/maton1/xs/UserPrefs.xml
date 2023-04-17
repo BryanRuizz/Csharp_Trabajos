@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8CCE2D10-32A1-4488-ADAE-8D6E0C6767C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="maton1/Program.cs">
+    <Files>
+      <File FileName="maton1/Program.cs" Line="105" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.maton1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

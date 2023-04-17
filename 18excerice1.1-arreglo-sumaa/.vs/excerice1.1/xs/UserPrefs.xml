@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{482C8D73-CAF1-4625-B170-DE907ED93515}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="excerice1.1/Program.cs">
+    <Files>
+      <File FileName="excerice1.1/Program.cs" Line="126" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.excerice1.1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

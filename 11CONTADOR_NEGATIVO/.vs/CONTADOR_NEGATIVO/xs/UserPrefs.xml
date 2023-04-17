@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{57F5E20C-E978-45FD-905B-A3E07F20B555}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CONTADOR_NEGATIVO/Program.cs">
+    <Files>
+      <File FileName="CONTADOR_NEGATIVO/Program.cs" Line="35" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CONTADOR__NEGATIVO PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

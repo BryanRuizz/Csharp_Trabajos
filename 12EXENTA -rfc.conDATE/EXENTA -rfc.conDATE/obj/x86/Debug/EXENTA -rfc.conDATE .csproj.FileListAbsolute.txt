@@ -1,0 +1,6 @@
+X:\Documentos\1 visualstudio 1 a 4\MATONES 2\12EXENTA -rfc.conDATE\EXENTA -rfc.conDATE\bin\Debug\EXEN_ARTURO.exe
+X:\Documentos\1 visualstudio 1 a 4\MATONES 2\12EXENTA -rfc.conDATE\EXENTA -rfc.conDATE\bin\Debug\EXEN_ARTURO.pdb
+X:\Documentos\1 visualstudio 1 a 4\MATONES 2\12EXENTA -rfc.conDATE\EXENTA -rfc.conDATE\obj\x86\Debug\EXENTA -rfc.conDATE .csprojAssemblyReference.cache
+X:\Documentos\1 visualstudio 1 a 4\MATONES 2\12EXENTA -rfc.conDATE\EXENTA -rfc.conDATE\obj\x86\Debug\EXENTA -rfc.conDATE .csproj.CoreCompileInputs.cache
+X:\Documentos\1 visualstudio 1 a 4\MATONES 2\12EXENTA -rfc.conDATE\EXENTA -rfc.conDATE\obj\x86\Debug\EXEN_ARTURO.exe
+X:\Documentos\1 visualstudio 1 a 4\MATONES 2\12EXENTA -rfc.conDATE\EXENTA -rfc.conDATE\obj\x86\Debug\EXEN_ARTURO.pdb

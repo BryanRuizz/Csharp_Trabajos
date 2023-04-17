@@ -1,0 +1,56 @@
+c:\users\jesus calderon\documents\visual studio 2013\Projects\game_2_part\game_2_part\bin\Debug\game_2_part.exe.config
+c:\users\jesus calderon\documents\visual studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.csprojResolveAssemblyReference.cache
+c:\users\jesus calderon\documents\visual studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.Form1.resources
+c:\users\jesus calderon\documents\visual studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.Properties.Resources.resources
+c:\users\jesus calderon\documents\visual studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.csproj.GenerateResource.Cache
+c:\users\jesus calderon\documents\visual studio 2013\Projects\game_2_part\game_2_part\bin\Debug\game_2_part.exe
+c:\users\jesus calderon\documents\visual studio 2013\Projects\game_2_part\game_2_part\bin\Debug\game_2_part.pdb
+c:\users\jesus calderon\documents\visual studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.exe
+c:\users\jesus calderon\documents\visual studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\game_2_part\game_2_part\bin\Debug\game_2_part.exe.config
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.exe
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\game_2_part\game_2_part\bin\Debug\game_2_part.exe
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\game_2_part\game_2_part\bin\Debug\game_2_part.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.Form1.resources
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\game_2_part\game_2_part\obj\Debug\game_2_part.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\game_2_part\game_2_part\bin\Debug\game_2_part.exe.config
+\\vmware-host\Shared Folders\Escritorio\game_2_part\game_2_part\obj\Debug\game_2_part.exe
+\\vmware-host\Shared Folders\Escritorio\game_2_part\game_2_part\obj\Debug\game_2_part.pdb
+\\vmware-host\Shared Folders\Escritorio\game_2_part\game_2_part\bin\Debug\game_2_part.exe
+\\vmware-host\Shared Folders\Escritorio\game_2_part\game_2_part\bin\Debug\game_2_part.pdb
+\\vmware-host\Shared Folders\Escritorio\game_2_part\game_2_part\obj\Debug\game_2_part.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\game_2_part\game_2_part\obj\Debug\game_2_part.Form1.resources
+\\vmware-host\Shared Folders\Escritorio\game_2_part\game_2_part\obj\Debug\game_2_part.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\game_2_part\game_2_part\obj\Debug\game_2_part.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\dos_games\game_2_part\bin\Debug\game_2_part.exe.config
+\\vmware-host\Shared Folders\Escritorio\dos_games\game_2_part\obj\Debug\game_2_part.exe
+\\vmware-host\Shared Folders\Escritorio\dos_games\game_2_part\obj\Debug\game_2_part.pdb
+\\vmware-host\Shared Folders\Escritorio\dos_games\game_2_part\bin\Debug\game_2_part.exe
+\\vmware-host\Shared Folders\Escritorio\dos_games\game_2_part\bin\Debug\game_2_part.pdb
+\\vmware-host\Shared Folders\Escritorio\dos_games\game_2_part\obj\Debug\game_2_part.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\dos_games\game_2_part\obj\Debug\game_2_part.Form1.resources
+\\vmware-host\Shared Folders\Escritorio\dos_games\game_2_part\obj\Debug\game_2_part.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\dos_games\game_2_part\obj\Debug\game_2_part.csproj.GenerateResource.Cache
+D:\dos_games\game_2_part\bin\Debug\game_2_part.exe.config
+D:\dos_games\game_2_part\bin\Debug\game_2_part.exe
+D:\dos_games\game_2_part\bin\Debug\game_2_part.pdb
+D:\dos_games\game_2_part\obj\Debug\game_2_part.csprojAssemblyReference.cache
+D:\dos_games\game_2_part\obj\Debug\game_2_part.Form1.resources
+D:\dos_games\game_2_part\obj\Debug\game_2_part.Properties.Resources.resources
+D:\dos_games\game_2_part\obj\Debug\game_2_part.csproj.GenerateResource.cache
+D:\dos_games\game_2_part\obj\Debug\game_2_part.csproj.CoreCompileInputs.cache
+D:\dos_games\game_2_part\obj\Debug\game_2_part.exe
+D:\dos_games\game_2_part\obj\Debug\game_2_part.pdb
+X:\Documentos\visualstudio\windos form\33_juegos_part_dos\game_2_part\obj\Debug\game_2_part.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\windos form\33_juegos_part_dos\game_2_part\obj\Debug\game_2_part.Form1.resources
+X:\Documentos\visualstudio\windos form\33_juegos_part_dos\game_2_part\obj\Debug\game_2_part.Properties.Resources.resources
+X:\Documentos\visualstudio\windos form\33_juegos_part_dos\game_2_part\obj\Debug\game_2_part.csproj.GenerateResource.cache
+X:\Documentos\visualstudio\windos form\33_juegos_part_dos\game_2_part\obj\Debug\game_2_part.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\windos form\33_juegos_part_dos\game_2_part\obj\Debug\game_2_part.exe
+X:\Documentos\visualstudio\windos form\33_juegos_part_dos\game_2_part\obj\Debug\game_2_part.pdb
+X:\Documentos\visualstudio\windos form\33_juegos_part_dos\game_2_part\bin\Debug\game_2_part.exe.config
+X:\Documentos\visualstudio\windos form\33_juegos_part_dos\game_2_part\bin\Debug\game_2_part.exe
+X:\Documentos\visualstudio\windos form\33_juegos_part_dos\game_2_part\bin\Debug\game_2_part.pdb

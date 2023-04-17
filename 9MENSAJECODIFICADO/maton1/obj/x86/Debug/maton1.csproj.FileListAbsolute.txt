@@ -1,0 +1,12 @@
+/Users/alumno/Projects/maton1/maton1/bin/Debug/maton1.exe
+/Users/alumno/Projects/maton1/maton1/bin/Debug/maton1.pdb
+/Users/alumno/Projects/maton1/maton1/obj/x86/Debug/maton1.csprojAssemblyReference.cache
+/Users/alumno/Projects/maton1/maton1/obj/x86/Debug/maton1.csproj.CoreCompileInputs.cache
+/Users/alumno/Projects/maton1/maton1/obj/x86/Debug/maton1.exe
+/Users/alumno/Projects/maton1/maton1/obj/x86/Debug/maton1.pdb
+X:\Documentos\visualstudio\MATONES\9MENSAJECODIFICADO\maton1\bin\Debug\maton1.exe
+X:\Documentos\visualstudio\MATONES\9MENSAJECODIFICADO\maton1\bin\Debug\maton1.pdb
+X:\Documentos\visualstudio\MATONES\9MENSAJECODIFICADO\maton1\obj\x86\Debug\maton1.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\MATONES\9MENSAJECODIFICADO\maton1\obj\x86\Debug\maton1.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\MATONES\9MENSAJECODIFICADO\maton1\obj\x86\Debug\maton1.exe
+X:\Documentos\visualstudio\MATONES\9MENSAJECODIFICADO\maton1\obj\x86\Debug\maton1.pdb

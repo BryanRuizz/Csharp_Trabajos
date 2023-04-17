@@ -1,0 +1,7 @@
+C:\Users\Bryan\source\repos\arreglo6x6\arreglo6x6\bin\Debug\arreglo6x6.exe.config
+C:\Users\Bryan\source\repos\arreglo6x6\arreglo6x6\bin\Debug\arreglo6x6.exe
+C:\Users\Bryan\source\repos\arreglo6x6\arreglo6x6\bin\Debug\arreglo6x6.pdb
+C:\Users\Bryan\source\repos\arreglo6x6\arreglo6x6\obj\Debug\arreglo6x6.csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\arreglo6x6\arreglo6x6\obj\Debug\arreglo6x6.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\arreglo6x6\arreglo6x6\obj\Debug\arreglo6x6.exe
+C:\Users\Bryan\source\repos\arreglo6x6\arreglo6x6\obj\Debug\arreglo6x6.pdb

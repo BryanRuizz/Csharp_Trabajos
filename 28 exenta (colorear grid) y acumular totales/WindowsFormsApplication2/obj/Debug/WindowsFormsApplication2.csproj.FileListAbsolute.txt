@@ -1,0 +1,29 @@
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+X:\Documentos\visualstudio\windos form\28 exenta (colorear grid) y acumular totales\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+X:\Documentos\visualstudio\windos form\28 exenta (colorear grid) y acumular totales\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+X:\Documentos\visualstudio\windos form\28 exenta (colorear grid) y acumular totales\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+X:\Documentos\visualstudio\windos form\28 exenta (colorear grid) y acumular totales\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\windos form\28 exenta (colorear grid) y acumular totales\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+X:\Documentos\visualstudio\windos form\28 exenta (colorear grid) y acumular totales\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+X:\Documentos\visualstudio\windos form\28 exenta (colorear grid) y acumular totales\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+X:\Documentos\visualstudio\windos form\28 exenta (colorear grid) y acumular totales\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\windos form\28 exenta (colorear grid) y acumular totales\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+X:\Documentos\visualstudio\windos form\28 exenta (colorear grid) y acumular totales\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb

@@ -1,0 +1,20 @@
+X:\Documentos\visualstudio\asesorias\RFC_en_form\RFC_en_form\bin\Debug\RFC_en_form.exe.config
+X:\Documentos\visualstudio\asesorias\RFC_en_form\RFC_en_form\bin\Debug\RFC_en_form.exe
+X:\Documentos\visualstudio\asesorias\RFC_en_form\RFC_en_form\bin\Debug\RFC_en_form.pdb
+X:\Documentos\visualstudio\asesorias\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\asesorias\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.Form1.resources
+X:\Documentos\visualstudio\asesorias\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.Properties.Resources.resources
+X:\Documentos\visualstudio\asesorias\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.csproj.GenerateResource.cache
+X:\Documentos\visualstudio\asesorias\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\asesorias\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.exe
+X:\Documentos\visualstudio\asesorias\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.pdb
+X:\Documentos\visualstudio\windos form\RFC_en_form\RFC_en_form\bin\Debug\RFC_en_form.exe.config
+X:\Documentos\visualstudio\windos form\RFC_en_form\RFC_en_form\bin\Debug\RFC_en_form.exe
+X:\Documentos\visualstudio\windos form\RFC_en_form\RFC_en_form\bin\Debug\RFC_en_form.pdb
+X:\Documentos\visualstudio\windos form\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\windos form\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.Form1.resources
+X:\Documentos\visualstudio\windos form\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.Properties.Resources.resources
+X:\Documentos\visualstudio\windos form\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.csproj.GenerateResource.cache
+X:\Documentos\visualstudio\windos form\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\windos form\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.exe
+X:\Documentos\visualstudio\windos form\RFC_en_form\RFC_en_form\obj\Debug\RFC_en_form.pdb

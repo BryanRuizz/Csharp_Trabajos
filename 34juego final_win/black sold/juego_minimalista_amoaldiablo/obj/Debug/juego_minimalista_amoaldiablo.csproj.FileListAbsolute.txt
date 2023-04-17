@@ -1,0 +1,153 @@
+C:\Users\Bryan.000\source\repos\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+C:\Users\Bryan.000\source\repos\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+C:\Users\Bryan.000\source\repos\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+C:\Users\Bryan.000\source\repos\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojAssemblyReference.cache
+C:\Users\Bryan.000\source\repos\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+C:\Users\Bryan.000\source\repos\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+C:\Users\Bryan.000\source\repos\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.cache
+C:\Users\Bryan.000\source\repos\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.CoreCompileInputs.cache
+C:\Users\Bryan.000\source\repos\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+C:\Users\Bryan.000\source\repos\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+C:\Users\Bryan.000\source\repos\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+\\vmware-host\Shared Folders\Escritorio\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+\\vmware-host\Shared Folders\Escritorio\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+\\vmware-host\Shared Folders\Escritorio\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+\\vmware-host\Shared Folders\Escritorio\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+\\vmware-host\Shared Folders\Escritorio\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+\\vmware-host\Shared Folders\Escritorio\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+\\vmware-host\Shared Folders\Escritorio\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+D:\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+D:\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+D:\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+D:\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojAssemblyReference.cache
+D:\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+D:\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+D:\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+D:\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.cache
+D:\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.CoreCompileInputs.cache
+D:\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+D:\juego_minimalista_amoaldiablo\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+\\vmware-host\Shared Folders\alumno en mi Mac\Desktop\juego_minimalistaCASA\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+\\vmware-host\Shared Folders\alumno en mi Mac\Desktop\juego_minimalistaCASA\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+\\vmware-host\Shared Folders\alumno en mi Mac\Desktop\juego_minimalistaCASA\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+\\vmware-host\Shared Folders\alumno en mi Mac\Desktop\juego_minimalistaCASA\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+\\vmware-host\Shared Folders\alumno en mi Mac\Desktop\juego_minimalistaCASA\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+\\vmware-host\Shared Folders\alumno en mi Mac\Desktop\juego_minimalistaCASA\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\alumno en mi Mac\Desktop\juego_minimalistaCASA\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+\\vmware-host\Shared Folders\alumno en mi Mac\Desktop\juego_minimalistaCASA\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+\\vmware-host\Shared Folders\alumno en mi Mac\Desktop\juego_minimalistaCASA\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+\\vmware-host\Shared Folders\alumno en mi Mac\Desktop\juego_minimalistaCASA\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+\\vmware-host\Shared Folders\Escritorio\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+\\vmware-host\Shared Folders\Escritorio\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+\\vmware-host\Shared Folders\Escritorio\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+\\vmware-host\Shared Folders\Escritorio\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+\\vmware-host\Shared Folders\Escritorio\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+\\vmware-host\Shared Folders\Escritorio\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+\\vmware-host\Shared Folders\Escritorio\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.Cache
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojAssemblyReference.cache
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.cache
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.CoreCompileInputs.cache
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+\\vmware-host\Shared Folders\Escritorio\juego_minimalistaCASA_2\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form3.resources
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojAssemblyReference.cache
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form3.resources
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.cache
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.CoreCompileInputs.cache
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+C:\Users\Bryan.000\Desktop\juego_minimalistaCASA_3\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form4.resources
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form3.resources
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form4.resources
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\juego final\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form3.resources
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form4.resources
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.Cache
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojAssemblyReference.cache
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form3.resources
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form4.resources
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.cache
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.CoreCompileInputs.cache
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+D:\juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form3.resources
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form4.resources
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.cache
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+X:\Documentos\visualstudio\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojAssemblyReference.cache
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form3.resources
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form4.resources
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.cache
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+X:\Documentos\visualstudio 1 a 4\windos form\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe.config
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.exe
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\bin\Debug\juego_minimalista_amoaldiablo.pdb
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csprojAssemblyReference.cache
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form1.resources
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form2.resources
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form3.resources
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Form4.resources
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.Properties.Resources.resources
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.GenerateResource.cache
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.csproj.CoreCompileInputs.cache
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.exe
+X:\Documentos\1 visualstudio 1 a 4\windos form 3\34juego final_win\black sold\juego_minimalista_amoaldiablo\obj\Debug\juego_minimalista_amoaldiablo.pdb

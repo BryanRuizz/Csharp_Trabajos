@@ -1,0 +1,11 @@
+C:\Users\Bryan\source\repos\17ARREGLOS(3)nombres-con(asteriscos)\17ARREGLOS(3)nombres-con(asteriscos)\bin\Debug\netcoreapp2.2\17ARREGLOS(3)nombres-con(asteriscos).deps.json
+C:\Users\Bryan\source\repos\17ARREGLOS(3)nombres-con(asteriscos)\17ARREGLOS(3)nombres-con(asteriscos)\bin\Debug\netcoreapp2.2\17ARREGLOS(3)nombres-con(asteriscos).runtimeconfig.json
+C:\Users\Bryan\source\repos\17ARREGLOS(3)nombres-con(asteriscos)\17ARREGLOS(3)nombres-con(asteriscos)\bin\Debug\netcoreapp2.2\17ARREGLOS(3)nombres-con(asteriscos).runtimeconfig.dev.json
+C:\Users\Bryan\source\repos\17ARREGLOS(3)nombres-con(asteriscos)\17ARREGLOS(3)nombres-con(asteriscos)\bin\Debug\netcoreapp2.2\17ARREGLOS(3)nombres-con(asteriscos).dll
+C:\Users\Bryan\source\repos\17ARREGLOS(3)nombres-con(asteriscos)\17ARREGLOS(3)nombres-con(asteriscos)\bin\Debug\netcoreapp2.2\17ARREGLOS(3)nombres-con(asteriscos).pdb
+C:\Users\Bryan\source\repos\17ARREGLOS(3)nombres-con(asteriscos)\17ARREGLOS(3)nombres-con(asteriscos)\obj\Debug\netcoreapp2.2\17ARREGLOS(3)nombres-con(asteriscos).csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\17ARREGLOS(3)nombres-con(asteriscos)\17ARREGLOS(3)nombres-con(asteriscos)\obj\Debug\netcoreapp2.2\17ARREGLOS(3)nombres-con(asteriscos).csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\17ARREGLOS(3)nombres-con(asteriscos)\17ARREGLOS(3)nombres-con(asteriscos)\obj\Debug\netcoreapp2.2\17ARREGLOS(3)nombres-con(asteriscos).AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\17ARREGLOS(3)nombres-con(asteriscos)\17ARREGLOS(3)nombres-con(asteriscos)\obj\Debug\netcoreapp2.2\17ARREGLOS(3)nombres-con(asteriscos).AssemblyInfo.cs
+C:\Users\Bryan\source\repos\17ARREGLOS(3)nombres-con(asteriscos)\17ARREGLOS(3)nombres-con(asteriscos)\obj\Debug\netcoreapp2.2\17ARREGLOS(3)nombres-con(asteriscos).dll
+C:\Users\Bryan\source\repos\17ARREGLOS(3)nombres-con(asteriscos)\17ARREGLOS(3)nombres-con(asteriscos)\obj\Debug\netcoreapp2.2\17ARREGLOS(3)nombres-con(asteriscos).pdb

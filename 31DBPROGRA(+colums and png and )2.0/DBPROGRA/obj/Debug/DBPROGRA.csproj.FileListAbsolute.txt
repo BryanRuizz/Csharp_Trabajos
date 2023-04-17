@@ -1,0 +1,38 @@
+\\vmware-host\shared folders\documentos\visual studio 2013\Projects\DBPROGRA\DBPROGRA\bin\Debug\DBPROGRA.exe.config
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\DBPROGRA\DBPROGRA\bin\Debug\DBPROGRA.exe
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\DBPROGRA\DBPROGRA\bin\Debug\DBPROGRA.pdb
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.Form1.resources
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.exe
+\\vmware-host\Shared Folders\Documentos\Visual Studio 2013\Projects\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.pdb
+\\vmware-host\Shared Folders\Escritorio\cosas de la maquina virtual\DBPROGRA\DBPROGRA\bin\Debug\DBPROGRA.exe.config
+\\vmware-host\Shared Folders\Escritorio\cosas de la maquina virtual\DBPROGRA\DBPROGRA\bin\Debug\DBPROGRA.exe
+\\vmware-host\Shared Folders\Escritorio\cosas de la maquina virtual\DBPROGRA\DBPROGRA\bin\Debug\DBPROGRA.pdb
+\\vmware-host\Shared Folders\Escritorio\cosas de la maquina virtual\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Escritorio\cosas de la maquina virtual\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.Form1.resources
+\\vmware-host\Shared Folders\Escritorio\cosas de la maquina virtual\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.Properties.Resources.resources
+\\vmware-host\Shared Folders\Escritorio\cosas de la maquina virtual\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Escritorio\cosas de la maquina virtual\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.exe
+\\vmware-host\Shared Folders\Escritorio\cosas de la maquina virtual\DBPROGRA\DBPROGRA\obj\Debug\DBPROGRA.pdb
+X:\Documentos\visualstudio\windos form\31.2DBPROGRA(+colums and png and )\DBPROGRA\bin\Debug\DBPROGRA.exe.config
+X:\Documentos\visualstudio\windos form\31.2DBPROGRA(+colums and png and )\DBPROGRA\bin\Debug\DBPROGRA.exe
+X:\Documentos\visualstudio\windos form\31.2DBPROGRA(+colums and png and )\DBPROGRA\bin\Debug\DBPROGRA.pdb
+X:\Documentos\visualstudio\windos form\31.2DBPROGRA(+colums and png and )\DBPROGRA\obj\Debug\DBPROGRA.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\windos form\31.2DBPROGRA(+colums and png and )\DBPROGRA\obj\Debug\DBPROGRA.Form1.resources
+X:\Documentos\visualstudio\windos form\31.2DBPROGRA(+colums and png and )\DBPROGRA\obj\Debug\DBPROGRA.Properties.Resources.resources
+X:\Documentos\visualstudio\windos form\31.2DBPROGRA(+colums and png and )\DBPROGRA\obj\Debug\DBPROGRA.csproj.GenerateResource.cache
+X:\Documentos\visualstudio\windos form\31.2DBPROGRA(+colums and png and )\DBPROGRA\obj\Debug\DBPROGRA.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\windos form\31.2DBPROGRA(+colums and png and )\DBPROGRA\obj\Debug\DBPROGRA.exe
+X:\Documentos\visualstudio\windos form\31.2DBPROGRA(+colums and png and )\DBPROGRA\obj\Debug\DBPROGRA.pdb
+X:\Documentos\visualstudio\windos form\31DBPROGRA(+colums and png and )2.0\DBPROGRA\bin\Debug\DBPROGRA.exe.config
+X:\Documentos\visualstudio\windos form\31DBPROGRA(+colums and png and )2.0\DBPROGRA\bin\Debug\DBPROGRA.exe
+X:\Documentos\visualstudio\windos form\31DBPROGRA(+colums and png and )2.0\DBPROGRA\bin\Debug\DBPROGRA.pdb
+X:\Documentos\visualstudio\windos form\31DBPROGRA(+colums and png and )2.0\DBPROGRA\obj\Debug\DBPROGRA.csprojAssemblyReference.cache
+X:\Documentos\visualstudio\windos form\31DBPROGRA(+colums and png and )2.0\DBPROGRA\obj\Debug\DBPROGRA.Form1.resources
+X:\Documentos\visualstudio\windos form\31DBPROGRA(+colums and png and )2.0\DBPROGRA\obj\Debug\DBPROGRA.Properties.Resources.resources
+X:\Documentos\visualstudio\windos form\31DBPROGRA(+colums and png and )2.0\DBPROGRA\obj\Debug\DBPROGRA.csproj.GenerateResource.cache
+X:\Documentos\visualstudio\windos form\31DBPROGRA(+colums and png and )2.0\DBPROGRA\obj\Debug\DBPROGRA.csproj.CoreCompileInputs.cache
+X:\Documentos\visualstudio\windos form\31DBPROGRA(+colums and png and )2.0\DBPROGRA\obj\Debug\DBPROGRA.exe
+X:\Documentos\visualstudio\windos form\31DBPROGRA(+colums and png and )2.0\DBPROGRA\obj\Debug\DBPROGRA.pdb
